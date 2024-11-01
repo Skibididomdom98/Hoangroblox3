@@ -1,0 +1,28 @@
+--[[
+
+
+██████╗ ██╗     ██╗   ██╗████████╗ ██████╗ ███╗   ██╗██╗██╗   ██╗███╗   ███╗   ██╗     ██╗   ██╗ █████╗ 
+██╔══██╗██║     ██║   ██║╚══██╔══╝██╔═══██╗████╗  ██║██║██║   ██║████╗ ████║   ██║     ██║   ██║██╔══██╗
+██████╔╝██║     ██║   ██║   ██║   ██║   ██║██╔██╗ ██║██║██║   ██║██╔████╔██║   ██║     ██║   ██║███████║
+██╔═══╝ ██║     ██║   ██║   ██║   ██║   ██║██║╚██╗██║██║██║   ██║██║╚██╔╝██║   ██║     ██║   ██║██╔══██║
+██║     ███████╗╚██████╔╝   ██║   ╚██████╔╝██║ ╚████║██║╚██████╔╝██║ ╚═╝ ██║██╗███████╗╚██████╔╝██║  ██║
+╚═╝     ╚══════╝ ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+ 
+                                                                                                       
+--]]
+
+
+--// • MAIN DETAILS • \\ --
+
+--// • Owner: hoangroblox
+--// • Obfuscated: Yes
+--// • Version: 3.6.8
+--// • Libraries & Modules: 6
+--// • Developement Speed: Very Slow
+--// • Discord Server: https://discord.gg/ua6NXAsk
+--// • Developers: hoangroblox
+--// • Average Updates Per Week: 1 - 3
+--// • Average Load Time: 0 - 10 Seconds
+--// • Average System Downtimes: N/A
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/refs/heads/main/Versions/V3.7.1.txt", true))()
